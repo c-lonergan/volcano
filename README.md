@@ -1,7 +1,7 @@
 # volcano
 Microarray Data: Interactive Volcano Plot
 
-Allows the user to explore and visualise the results of a differential expression analysis.
+Allows the user to explore and visualise the results of a differential expression analysis using R Shiny.
 
  - The data is read in using a reactive function.
  - The desired number of genes (specified by a numeric input field) is displayed in a table, sorted by significance.
